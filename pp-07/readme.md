@@ -27,10 +27,10 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guidline One (URL):https://msdn.microsoft.com/en-us/library/windows/desktop/dn742478.aspx
-* How you implemented it in your sketch:
+* How you implemented it in your sketch: Will use small sentences and make sure text is as large and simple as possible.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL):https://msdn.microsoft.com/library/windows/desktop/dn742479.aspx
+* How you implemented it in your sketch:Website is divided into two simple columns on desktop version, or one longer column on mobile (or smaller screen). Elements will scale with screen size as to to remain legible on multiple screen sizes. A menu is used to remove some clutter from the main screen that would not likely be relevant to users.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL):https://msdn.microsoft.com/library/windows/desktop/dn742463.aspx
+* How you implemented it in your sketch: Similar to the other two guidelines, the design was created to be easily usable on touch devices, pen devices, and well as standard keyboard devices.
